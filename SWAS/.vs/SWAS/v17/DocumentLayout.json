@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|c:\\users\\janus\\desktop\\14-06\\proyectoweb\\swas\\swas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E0875-1A6C-4DB5-81E2-D520033B59F9}|SWAS\\SWAS.csproj|solutionrelative:swas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SWAS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SWAS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-17T21:06:19.309Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "SWAS\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\TestController.cs",
+              "RelativeToolTip": "SWAS\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:28:27.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SWAS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SWAS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:59:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "SWAS\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Models\\Usuarios.cs",
+              "RelativeToolTip": "SWAS\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T22:35:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SWAS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SWAS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:31:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Program.cs",
+              "RelativeDocumentMoniker": "SWAS\\Program.cs",
+              "ToolTip": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\Program.cs",
+              "RelativeToolTip": "SWAS\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T19:44:56.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
