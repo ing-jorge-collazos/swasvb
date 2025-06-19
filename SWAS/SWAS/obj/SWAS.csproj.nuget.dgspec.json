@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\SWAS.csproj": {}
+    "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\swasvb\\SWAS\\SWAS\\SWAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\SWAS.csproj": {
+    "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\swasvb\\SWAS\\SWAS\\SWAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\SWAS.csproj",
+        "projectUniqueName": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\swasvb\\SWAS\\SWAS\\SWAS.csproj",
         "projectName": "SWAS",
-        "projectPath": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\SWAS.csproj",
+        "projectPath": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\swasvb\\SWAS\\SWAS\\SWAS.csproj",
         "packagesPath": "C:\\Users\\Janus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\SWAS\\SWAS\\obj\\",
+        "outputPath": "C:\\Users\\Janus\\Desktop\\14-06\\ProyectoWeb\\swasvb\\SWAS\\SWAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Janus\\AppData\\Roaming\\NuGet\\NuGet.Config",

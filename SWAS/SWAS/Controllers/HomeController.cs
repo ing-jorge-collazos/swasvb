@@ -12,11 +12,18 @@ namespace SWAS.Controllers
         {
             _context = context;
         }
-
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Usuario.ToListAsync());
         }
+
+        [HttpGet]
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
 
         // GET: HomeController/Details/5
         public ActionResult Details(int id)
